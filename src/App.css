@@ -1,0 +1,70 @@
+.bg-astrobanner {
+  background-image: url("./assets/astrobanner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-gradientbanner {
+  background-image: url("./assets/docs-right.png"),
+    url("./assets/blue-purple-1.svg"), url("./assets/docs-left.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top, right top, center;
+}
+.bg-explore {
+  background-image: url("./assets/explore01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bg-loop {
+  background-image: 
+    /* url("./assets/green.svg"), */ url("./assets/looper-pattern.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom, right;
+}
+.bg-grid {
+  background-image: 
+    /* url("./assets/green.svg"), */ url("./assets/background/grid.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: bottom, right; */
+}
+.bg-commets {
+  background-image: 
+  /* url("./assets/green.svg"), */ url("./assets/background/commets.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: bottom, right; */
+}
+.bg-mars {
+  background-image: url("./assets/background/marsbg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+.bg-earth {
+  background-image: url("./assets/background/earth_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+.bg-logbanner {
+  /* background-image: url("./assets/background/bg-login-Photoroom.png"); */
+  background-image: url("./assets/background/bg-login.jpg");
+  background-repeat: repeat;
+  background-size: contain;
+  background-position: right;
+}
+.bg-blob {
+  background-image: url("./assets/docs-right.png"),
+    url("./assets/blue-purple-1.svg"), 
+    url("./assets/background/blob.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top,top, center;
+}
+.active{
+  font-weight: bold;
+  color:#DC2626
+}

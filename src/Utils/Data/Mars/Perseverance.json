@@ -1,0 +1,43 @@
+{
+  "rover": {
+    "name": "Perseverance",
+    "description": "NASA's Perseverance rover is a car-sized robot that landed on Mars on February 18, 2021 as part of the Mars 2020 mission. The rover is designed to explore the Jezero crater and search for signs of ancient life on Mars. It has four main objectives: Determine if life ever existed on Mars, Characterize the climate of Mars, Characterize the geology of Mars, and Prepare for human exploration of Mars.",
+    "landing_date": "2021-02-18",
+    "launch_date": "2020-07-30",
+    "status": "active",
+    "mission": {
+      "name": "Mars 2020",
+      "duration": "ongoing",
+      "objectives": [
+        "Search for signs of past microbial life",
+        "Assess Mars' geology and climate",
+        "Prepare for human exploration"
+      ]
+    },
+    "location": {
+      "latitude": 18.4444,
+      "longitude": 77.45,
+      "site": "Jezero Crater"
+    },
+    "cameras": [
+      {
+        "name": "Mastcam-Z",
+        "type": "Mast Camera Zoom",
+        "resolution": "1600x1200",
+        "description": "Provides high-resolution images and color information of the Martian terrain. It has zoom capability."
+      },
+      {
+        "name": "Navcam-Z",
+        "type": "Navigation Camera Zoom",
+        "resolution": "800x800",
+        "description": "Captures panoramic 3D imagery for navigation and hazard avoidance. It has zoom capability."
+      },
+      {
+        "name": "SuperCam",
+        "type": "SuperCam",
+        "resolution": "Depends on the instrument used",
+        "description": "Analyzes the chemical composition of rocks and soils from a distance using laser-induced breakdown spectroscopy (LIBS) and other techniques."
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "rover": {
+    "name": "Curiosity",
+    "description": "NASA's Curiosity rover is a car-sized Mars rover that launched from Cape Canaveral on November 26, 2011 and landed in Gale crater on August 6, 2012. It's the largest and most capable rover ever sent to Mars, about the size of a small SUV and as tall as a basketball player. Curiosity's mission is to determine if Mars was ever habitable for microbial life, and it's equipped with 17 cameras and a robotic arm with laboratory tools and instruments.",
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "status": "active",
+    "mission": {
+      "name": "Mars Science Laboratory",
+      "duration": "ongoing",
+      "objectives": [
+        "Investigate Mars' climate and geology",
+        "Assess whether Mars ever had environmental conditions favorable to microbial life",
+        "Study the role of water and its persistence"
+      ]
+    },
+    "location": {
+      "latitude": -4.5895,
+      "longitude": 137.4417,
+      "site": "Gale Crater"
+    },
+    "cameras": [
+      {
+        "name": "Mastcam",
+        "type": "Mast Camera",
+        "resolution": "1600x1200",
+        "description": "Provides high-resolution images and color information of the Martian terrain."
+      },
+      {
+        "name": "Navcam",
+        "type": "Navigation Camera",
+        "resolution": "800x800",
+        "description": "Captures panoramic 3D imagery for navigation and hazard avoidance."
+      },
+      {
+        "name": "ChemCam",
+        "type": "Chemistry and Camera Complex",
+        "resolution": "Ranging from 30 to 110 micrometers",
+        "description": "Used for analyzing the composition of rocks and soil from a distance."
+      }
+    ]
+  }
+}

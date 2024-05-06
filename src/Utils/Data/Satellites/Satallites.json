@@ -1,0 +1,68 @@
+{
+  "satellites": [
+    {
+      "name": "Hubble Space Telescope",
+      "image": "https://science.nasa.gov/wp-content/uploads/2023/07/hubble-space-telescope-hst-6.jpg?w=4096&format=jpeg",
+      "description": "The Hubble Space Telescope has provided breathtaking images and invaluable data since its launch in 1990, revolutionizing our understanding of the universe.",
+      "orbit_type": "Low Earth Orbit",
+      "launch_date": "1990-04-24",
+      "status": "Active"
+    },
+    {
+      "name": "International Space Station (ISS)",
+      "image": "https://images-assets.nasa.gov/image/iss056e201248/iss056e201248~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+      "description": "The ISS is a multinational collaborative project involving multiple space agencies, serving as a microgravity laboratory and observatory for scientific research.",
+      "orbit_type": "Low Earth Orbit",
+      "launch_date": "1998-11-20",
+      "status": "Active"
+    },
+    {
+      "name": "James Webb Space Telescope",
+      "image": "https://science.nasa.gov/wp-content/uploads/2023/06/jwst-spacecraftpotentialtargetsmontageflip-1200px-4-jpg.webp?w=1200",
+      "description": "The James Webb Space Telescope is NASA's next-generation space observatory, set to launch in 2022, with the mission to explore the cosmos and unlock the mysteries of the universe.",
+      "orbit_type": "Lagrange Point 2",
+      "launch_date": "2022 (planned)",
+      "status": "Active"
+    },
+    {
+      "name": "Europa Clipper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebB1CKUGW0D_WxYGu53OG9OWXH3X0Ksl9Wa9SZsfYoA&s",
+      "description": "The Europa Clipper mission aims to study Jupiter's moon Europa, with the goal of assessing its potential habitability by characterizing its ice shell, subsurface ocean, and geology.",
+      "orbit_type": "Jupiter Orbit",
+      "launch_date": "2024 (planned)",
+      "status": "Active"
+    },
+    {
+      "name": "Mars Reconnaissance Orbiter",
+      "image": "https://science.nasa.gov/wp-content/uploads/2017/12/mars-reconnaissance-orbiter-pia04916.jpg?w=4096&format=jpeg",
+      "description": "The Mars Reconnaissance Orbiter is a multipurpose spacecraft designed to study Mars' atmosphere, surface, and subsurface, aiding in the search for past and present water and life.",
+      "orbit_type": "Mars Orbit",
+      "launch_date": "2005-08-12",
+      "status": "Active"
+    },
+    {
+      "name": "Parker Solar Probe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmzLPlO94aCC6iDpgwLfebDxRIm1dJ3TIFtN--taxWQ&s",
+      "description": "The Parker Solar Probe is on a mission to study the Sun's outer atmosphere, or corona, and provide unprecedented insights into its behavior, helping scientists better understand solar activity.",
+      "orbit_type": "Heliocentric Orbit",
+      "launch_date": "2018-08-12",
+      "status": "Active"
+    },
+    {
+      "name": "Terra Satellite",
+      "image": "https://www.eoportal.org/ftp/satellite-missions/t/Terra_200722/Terra_Auto11.jpeg",
+      "description": "The Terra satellite is part of NASA's Earth Observing System, studying the Earth's atmosphere, land, oceans, and biosphere to better understand climate change and its impacts.",
+      "orbit_type": "Sun-Synchronous Orbit",
+      "launch_date": "1999-12-18",
+      "status": "Active"
+    },
+    {
+      "name": "Voyager 1",
+      "image": "https://science.nasa.gov/wp-content/uploads/2017/12/voyager.png?w=4096&format=png",
+      "description": "Voyager 1 is the farthest human-made object from Earth, launched in 1977 to explore the outer planets. It continues to send data from interstellar space, providing insights into our cosmic neighborhood.",
+      "orbit_type": "Interstellar Space",
+      "launch_date": "1977-09-05",
+      "status": "Active"
+    }
+  ]
+}
