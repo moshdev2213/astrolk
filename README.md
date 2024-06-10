@@ -1,4 +1,5 @@
-<img width="860" alt="banner" src="https://github.com/moshdev2213/astrolk/assets/103739510/87f5b227-17bc-4221-83f2-1a574c14fa9f">
+<img width="860" alt="1" src="https://github.com/moshdev2213/astrolk/assets/103739510/412c24a7-4795-47a2-999d-2b7a0996891c">
+
 
 🚀 Astro is an exciting 🌌, React-based web app, powered by NASA's public APIs 🚀. It uses Firebase for user authentication and data storage 🔒📊. Users can switch between light 🌞 and dark 🌙 modes for enhanced user-friendliness. Detailed 3D models of Mars rovers 🛸 are included to give a closer look at these fascinating machines. 🌕🔭 Explore the cosmos like never before with Astro!
 
@@ -28,20 +29,15 @@ npm run test
 npm run build
 ```
 
-## 2. Build Process.⚡
-Using nasa API register and take the API key.<br>
-Build the normal react project.<br>
-Firebase authentication with session management.<br>
-Reat vite, Tailwind css.<br>
-
 ## 3. Usage Instructions. ⚠️
-Have to login for the system (Use email and password or Google authentication.)
-After one hour the session will be expire.
+🔑 Log in to the system using email and password or Google authentication. 🌐 Your session will expire after one hour for security. ⏰🔒
 
-## 4. Chosen APIs.👾
-APOD <br>
-EPIC <br>
-MARS ROVER <br>
+## 4. Choosen APIs.👾⚡
+
+```bash
+APOD 
+EPIC 
+MARS ROVER
 EARTH
-
+```
 
